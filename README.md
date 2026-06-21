@@ -93,5 +93,7 @@ This dashboard helps stakeholders to:
 
 -----
 
-## Repository Structure
-Data: https://github.com/raymousumi03-cmyk/BLINKIT_ANALYSIS_POWERBI/blob/main/BlinkIT%20Grocery%20Data.xlsx
+## Screenshort/Demo
+Our dashboard looks like:
+
+https://github.com/raymousumi03-cmyk/BLINKIT_ANALYSIS_POWERBI/blob/main/Dashboard_image.png
