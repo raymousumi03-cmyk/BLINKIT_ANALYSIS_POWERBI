@@ -76,3 +76,17 @@ The dashboard enables users to analyze sales trends, compare outlet performance,
 - **DAX (Data Analysis Expressions)** – KPI and Measure Creation
 - **Data Modeling** – Building Relationships Between Tables
 - **Business Intelligence (BI)** – Insight Generation & Reporting
+
+-----
+
+## Business Impact
+
+This dashboard helps stakeholders to:
+
+- Monitor sales performance through interactive KPIs and visualizations.
+- Identify high-performing outlet locations and outlet types.
+- Understand customer preferences based on product categories and ratings.
+- Optimize inventory management and product placement strategies.
+- Support data-driven decision-making for business growth.
+- Analyze sales trends across different outlet sizes and locations.
+- Improve operational efficiency by identifying key revenue-driving factors.
