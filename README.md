@@ -96,4 +96,4 @@ This dashboard helps stakeholders to:
 ## Screenshort/Demo
 Our dashboard looks like:
 
-"C:\Users\raymo\OneDrive\Pictures\Screenshots\Dashboard_image.png"
+C:\Users\raymo\OneDrive\Pictures\Screenshots\Dashboard_image.png
