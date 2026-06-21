@@ -21,3 +21,49 @@ The dashboard enables users to analyze sales trends, compare outlet performance,
 | 📦 Total Items | 9K |
 | 📊 Average Sales | $141 |
 | ⭐ Average Rating | 4.0 |
+
+## 📈 Dashboard Insights
+
+### 1️⃣ Sales Performance
+- Total Sales Generated: **$1.20M**
+- Average Sales per Item: **$141**
+- Total Products Analyzed: **9,000+**
+- Average Customer Rating: **4.0**
+
+### 2️⃣ Outlet Establishment Analysis
+- Highest sales were observed in outlets established in **2018 ($205K)**.
+- Sales remained relatively stable across most years.
+
+### 3️⃣ Outlet Location Analysis
+- **Tier 3** locations generated the highest sales (**$472.13K**).
+- **Tier 2** contributed **$393.15K**.
+- **Tier 1** generated **$336.40K**.
+
+### 4️⃣ Outlet Size Analysis
+- Medium-sized outlets generated the highest sales contribution.
+- High-sized outlets contributed moderately to total sales.
+- Small-sized outlets contributed the least to total sales.
+
+### 5️⃣ Item Type Analysis
+**Top-Performing Product Categories:**
+- Household
+- Dairy
+- Starchy Foods
+- Snack Foods
+- Fruits & Vegetables
+
+### 6️⃣ Outlet Type Analysis
+- **Supermarket Type 1** generated the highest revenue (**$787.55K**).
+- Recorded the highest number of items sold (**5,577 items**).
+- Outperformed other outlet types in overall sales performance.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **Power BI** – Dashboard Development & Data Visualization
+- **Microsoft Excel** – Data Storage & Preprocessing
+- **Power Query** – Data Cleaning & Transformation
+- **DAX (Data Analysis Expressions)** – KPI and Measure Creation
+- **Data Modeling** – Building Relationships Between Tables
+- **Business Intelligence (BI)** – Insight Generation & Reporting
