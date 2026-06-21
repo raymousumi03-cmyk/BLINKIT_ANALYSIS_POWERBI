@@ -66,7 +66,7 @@ The dashboard enables users to analyze sales trends, compare outlet performance,
 - Recorded the highest number of items sold (**5,577 items**).
 - Outperformed other outlet types in overall sales performance.
 
----
+
 
 ## Tools & Technologies Used
 
