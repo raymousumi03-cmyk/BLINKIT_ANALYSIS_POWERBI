@@ -96,4 +96,4 @@ This dashboard helps stakeholders to:
 ## Screenshort/Demo
 Our dashboard looks like:
 
-![Dashboard preview](C:\Users\raymo\OneDrive\Pictures\Screenshots\Dashboard_image.png)
+![Dashboard preview](https://github.com/raymousumi03-cmyk/BLINKIT_ANALYSIS_POWERBI/blob/main/Dashboard_image.png)
