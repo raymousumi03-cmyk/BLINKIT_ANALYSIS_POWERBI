@@ -90,3 +90,8 @@ This dashboard helps stakeholders to:
 - Support data-driven decision-making for business growth.
 - Analyze sales trends across different outlet sizes and locations.
 - Improve operational efficiency by identifying key revenue-driving factors.
+
+-----
+
+## Repository Structure
+Data: https://github.com/raymousumi03-cmyk/BLINKIT_ANALYSIS_POWERBI/blob/main/BlinkIT%20Grocery%20Data.xlsx
