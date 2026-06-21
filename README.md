@@ -12,3 +12,12 @@ The dashboard enables users to analyze sales trends, compare outlet performance,
 - Evaluate product categories and fat content contribution.
 - Monitor average sales, ratings, and item visibility.
 - Identify high-performing outlet types and locations
+
+# Dashboard KPIs
+
+| Metric | Result |
+|---------|---------|
+| 💰 Total Sales | $1.20M |
+| 📦 Total Items | 9K |
+| 📊 Average Sales | $141 |
+| ⭐ Average Rating | 4.0 |
