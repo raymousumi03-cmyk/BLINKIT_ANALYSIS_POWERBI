@@ -5,10 +5,10 @@ This project presents an interactive Power BI Dashboard built using BlinkIT groc
 
 The dashboard enables users to analyze sales trends, compare outlet performance, and identify key factors affecting revenue generation.
 
-# Objectives
-<OL>Analyze overall sales performance of BlinkIT outlets.
-Compare sales across different outlet locations and sizes.
-Evaluate product categories and fat content contribution.
-Monitor average sales, ratings, and item visibility.
-Identify high-performing outlet types and locations.
-</OL>
+#  Objectives
+
+- Analyze overall sales performance of BlinkIT outlets.
+- Compare sales across different outlet locations and sizes.
+- Evaluate product categories and fat content contribution.
+- Monitor average sales, ratings, and item visibility.
+- Identify high-performing outlet types and locations
